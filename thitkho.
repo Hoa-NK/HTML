@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <style>
+        body { font-family: 'Segoe UI', Arial, sans-serif; padding: 20px }
+        img { width: 100%; border-radius: 10px; margin: 15px }
+        .box { background: #fff9c4; padding: 5px; border-left: 5px solid #d32f2f; }
+    </style>
+</head>
+<body>
+    <div class="box">
+        <h4 style="color: #d32f2f"> Thịt Kho Hột Vịt - Hương Vị Tết Miền Nam</h4>
+    </div>
+    <p>Thịt kho hột vịt (hay còn gọi là thịt kho tàu) là món ăn không thể thiếu trong mâm cỗ Tết của người dân Nam Bộ. Nồi thịt kho đậm đà với màu cánh gián đặc trưng, vị béo của thịt ba chỉ hòa quyện cùng vị bùi của trứng vịt, tạo nên một hương vị ấm cúng, gần gũi. Trong những ngày đầu năm Bính Ngọ 2026, nồi thịt kho tàu luôn được chuẩn bị sẵn để mời khách và dùng trong các bữa cơm sum họp gia đình, ăn kèm với dưa giá hoặc củ kiệu muối chua.</p>
+    
+    <strong>Ý nghĩa:</strong> Thể hiện sự hòa hợp, đoàn viên và mong cầu một năm mới "mọi sự tròn đầy, vuông vức".</br>
+    <strong>Nguyên liệu:</strong> Thịt ba rọi, hột vịt (trứng vịt), nước dừa tươi, nước mắm ngon, gia vị.
+
+    <img src="anhthitkho.jpg" alt="Nồi thịt kho hột vịt ngày Tết">
+</body>
+</html>
